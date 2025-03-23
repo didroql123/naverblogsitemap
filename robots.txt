@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://didroql123.github.io/naverblogsitemap/sitemap.xml
